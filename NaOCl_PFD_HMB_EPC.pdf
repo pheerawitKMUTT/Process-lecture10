@@ -1,0 +1,86 @@
+# Sodium Hypochlorite (NaOCl) Production Process - EPC Package
+
+---
+
+## Executive Summary
+This document outlines the Sodium Hypochlorite (NaOCl) production process, including detailed engineering design parameters suitable for an Engineering, Procurement, and Construction (EPC) package. The aim is to provide comprehensive guidance for project execution and regulatory compliance.
+
+---
+
+## Table of Contents
+1. Process Description and Chemistry
+2. Process Flow Diagram (PFD)
+3. Heat and Material Balance (HMB)
+4. Equipment List and Sizing
+5. Design Parameters and Operating Conditions
+6. Safety and Environmental Compliance
+7. P&ID Instrumentation Points
+8. Appendices
+
+---
+
+## Section 1: Process Description and Chemistry
+Sodium Hypochlorite is produced through the reaction of chlorine gas with sodium hydroxide.  
+
+### Reaction:
+Cl2 + 2 NaOH → NaOCl + NaCl + H2O
+
+The process typically involves:
+- Chlorination of brine solution.
+- Reaction conditions and parameters.
+
+---
+
+## Section 2: Process Flow Diagram (PFD)
+```
+[Insert ASCII Diagram of PFD Here]
+```
+### Stream Information:
+- Stream 1: Raw materials
+- Stream 2: Product output
+
+---
+
+## Section 3: Heat and Material Balance (HMB)
+### Calculations:
+| Component | Input | Output | Balance |
+|-----------|-------|--------|---------|
+| NaOH      | XX    | XX     | XX      |
+| Cl2       | XX    | XX     | XX      |
+
+### Tables:
+(Insert additional tables and calculations here)
+
+---
+
+## Section 4: Equipment List and Sizing
+- **Reactor**: Specifications and sizing details.
+- **Heat Exchanger**: Specifications and sizing details.
+
+---
+
+## Section 5: Design Parameters and Operating Conditions
+- Temperature: XX °C
+- Pressure: XX bar
+
+---
+
+## Section 6: Safety and Environmental Compliance
+This section discusses safety protocols and environmental regulations that must be adhered to during production and operation.
+
+---
+
+## Section 7: P&ID Instrumentation Points
+List of instrumentation points used in the P&ID diagrams with descriptions.
+
+---
+
+## Appendices
+- Reference Data
+- Additional Calculations
+- Relevant Industry Standards
+
+---
+
+**Date:** 2026-04-23  04:04:13  
+**Prepared by:** pheerawitKMUTT
